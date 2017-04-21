@@ -19,23 +19,6 @@ function ClozeCard(text, cloze){
 		console.log("error - " + err);
 	}
 
-
-
-	// this.fullText = function(){
-	// 	//return this.text;	
-	// 	return 'clozetext';
-	// }
-
-	// this.cloze = function(){
-	// 	//return this.clozetext;
-	// 	return 'clozetext';
-	// }
-
-	// this.partial = function(){
-	// 	var partialText = this.text.replace(clozetext, '...');
-	// }
-
-
 }
 
 
