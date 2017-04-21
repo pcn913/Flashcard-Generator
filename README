@@ -1,0 +1,4 @@
+To see constructors work call the flashcard game with 2 parameters (front/text, back/cloze).
+
+Sample constructor call:
+node flashcard "george washington was first president" "george washington"
